@@ -1,0 +1,11 @@
+{
+  "name": "contact-strapi",
+  "version": "1.0.0",
+  "description": "Premier contact avec le headless CMS/ Essai avec un générateur de contenu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
